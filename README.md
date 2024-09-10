@@ -1,4 +1,4 @@
-# MDST Tutorials - W24
+# MDST
 
 ## Setup
 
